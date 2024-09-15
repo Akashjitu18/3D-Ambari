@@ -12,14 +12,15 @@ This project features a detailed 3D model of the Golden Ambari, utilizing OpenGL
 
 
 ## Screenshots
-### Screenshot 1
+<div style="display: flex; gap: 10px;">
+  <img src="https://github.com/Akashjitu18/3D-Ambari/blob/main/images/Picture1.jpg" alt="Screenshot 1" style="width: 300px; height: auto;"/>
+  <img src="https://github.com/Akashjitu18/3D-Ambari/blob/main/images/Picture2.jpg" alt="Screenshot 2" style="width: 300px; height: auto;"/>
+</div>
+<div style="display: flex; gap: 10px;">
+  <img src="https://github.com/Akashjitu18/3D-Ambari/blob/main/images/Picture4.jpg" alt="Screenshot 4" style="width: 300px; height: auto;"/>
+  <img src="https://github.com/Akashjitu18/3D-Ambari/blob/main/images/Picture3.jpg" alt="Screenshot 3" style="width: 300px; height: auto;"/>
+</div>
 
-![Screenshot 2024-08-26 233147](https://github.com/user-attachments/images/picture1)
-
-
-### Screenshot 2
-
-![Screenshot 2](images/screenshot2.png)
 
 
 ## Getting Started
