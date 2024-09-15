@@ -10,6 +10,18 @@ This project features a detailed 3D model of the Golden Ambari, utilizing OpenGL
 - **Real-Time Rendering**: Leveraging OpenGL for dynamic and realistic visuals.
 - **Historical Accuracy**: Reflects thorough research for authenticity.
 
+
+## Screenshots
+### Screenshot 1
+
+![Screenshot 2024-08-26 233147](https://github.com/user-attachments/images/picture1)
+
+
+### Screenshot 2
+
+![Screenshot 2](images/screenshot2.png)
+
+
 ## Getting Started
 
 To use this project, ensure OpenGL and GLUT are installed on your system.
